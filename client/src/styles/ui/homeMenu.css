@@ -1,0 +1,71 @@
+.home_menu-grid {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:130px;
+    width:70%;
+    display:grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-column-gap: 1px;
+    grid-row-gap: 1px;
+}
+
+
+.home_menu-item {
+    height:32vh;
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:cover;
+    opacity:0.87;
+}
+
+.home_menu-item:hover {
+    opacity: 1;
+}
+
+#audio {
+    background-image: url("../../assets/images/audio.jpg");
+}
+
+#books {
+    background-image: url("../../assets/images/knjige.jpg");
+}
+
+#documents {
+        background-image: url("../../assets/images/dokumenti.jpg");
+}
+
+#magazines {
+    background-image: url("../../assets/images/casopis.jpg");
+}
+
+#newspapers {
+    background-image: url("../../assets/images/novine.jpg");
+}
+
+#photos {
+    background-image: url("../../assets/images/foto-zbirke.jpg");
+}
+
+#postcards {
+    background-image: url("../../assets/images/razglednice.jpg");
+}
+
+#posters {
+    background-image: url("../../assets/images/plakati.jpg");
+}
+
+#stamps {
+    background-image: url("../../assets/images/postanske-markice.jpg");
+}
+
+#video {
+    background-image: url("../../assets/images/film-video.jpg");
+}
+
+.copyright-wrapper {
+    width: 70%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:45px;
+    margin-bottom:30px;
+}

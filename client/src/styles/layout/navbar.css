@@ -1,0 +1,12 @@
+.dashboard-link-div {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 63px;
+}
+
+.dashboard-link {
+    width: 100%;
+    height: 100%;
+   
+}

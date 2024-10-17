@@ -1,0 +1,30 @@
+.dropzone-wrapper {
+    border: 2px dashed #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* align-items: center; */
+    /* min-height:10vh; */
+}
+
+
+.images-preview-wrapper {
+    margin-top:50px;
+    margin-bottom: 50px;
+ 
+}
+
+.image-box {
+    display: flex;
+    justify-content:center;
+
+}
+.typo {
+    /* border:5px solid green; */
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
